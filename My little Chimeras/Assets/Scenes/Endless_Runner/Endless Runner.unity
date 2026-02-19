@@ -699,6 +699,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Caminou
       objectReference: {fileID: 0}
+    - target: {fileID: 1300623396915750580, guid: a1840977253cbab4495571fb7a914887, type: 3}
+      propertyPath: m_Convex
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1300623396915750580, guid: a1840977253cbab4495571fb7a914887, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1896661992463170806, guid: a1840977253cbab4495571fb7a914887, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -755,6 +763,10 @@ PrefabInstance:
     - target: {fileID: 4108302120562214466, guid: e7c73af17d4841641b4e69ec8152477b, type: 3}
       propertyPath: m_Name
       value: Spawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108302120562214466, guid: e7c73af17d4841641b4e69ec8152477b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5468818895764934823, guid: e7c73af17d4841641b4e69ec8152477b, type: 3}
       propertyPath: distanciaMinima

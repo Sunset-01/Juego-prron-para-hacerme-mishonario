@@ -7,6 +7,8 @@ TagManager:
   - Trigger
   - Destroy
   - Destruir
+  - Ball
+  - Toy
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ground
+  - Interactable
   - 
   - 
   - 

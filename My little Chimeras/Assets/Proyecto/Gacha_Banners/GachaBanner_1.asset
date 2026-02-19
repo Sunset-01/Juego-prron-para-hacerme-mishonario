@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848610290486ddb4abb854ca7886c402, type: 3}
+  m_Name: GachaBanner_1
+  m_EditorClassIdentifier: Assembly-CSharp::GachaBanner
+  threeStarItems:
+  - {fileID: 11400000, guid: b202df3444b37fa40b303a93301000e0, type: 2}
+  - {fileID: 11400000, guid: 4f85d76a71fdd5c42b6c5cfaf4fb8042, type: 2}
+  - {fileID: 11400000, guid: 7c15648ba36d36347a5e7e56b669b45d, type: 2}
+  - {fileID: 11400000, guid: becfddd3ea6b9064b813cb43c6042756, type: 2}
+  - {fileID: 11400000, guid: 6aa9c100d0b0f7e4ca6cd817a62b7cf3, type: 2}
+  fourStarItems:
+  - {fileID: 11400000, guid: 66155c383a3a3824f9dc164835ed5bb9, type: 2}
+  - {fileID: 11400000, guid: be664e55108cc4347bf9d7844fd9aeb7, type: 2}
+  fiveStarItems:
+  - {fileID: 11400000, guid: a6973c8fbc16d9746a27942129465128, type: 2}
+  fiveStarRate: 0.6
+  fourStarRate: 5.1
+  threeStarRate: 94.3
+  fiveStarPity: 90
+  fourStarPity: 10
