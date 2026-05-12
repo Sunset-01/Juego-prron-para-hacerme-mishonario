@@ -9,6 +9,8 @@ TagManager:
   - Destruir
   - Ball
   - Toy
+  - tierra
+  - Chimera
   layers:
   - Default
   - TransparentFX

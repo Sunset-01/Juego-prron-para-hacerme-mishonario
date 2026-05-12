@@ -5,15 +5,27 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Principal.unity
+  - enabled: 0
+    path: Assets/V.1.0/Scenes.1.0/Principal.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/Scenes/Minijuego_Football/Football.unity
+  - enabled: 0
+    path: Assets/V.1.0/Scenes.1.0/Minijuego_Football/Football.unity
     guid: b73e98028e81fb24b9cf6091b22706ca
-  - enabled: 1
-    path: Assets/Scenes/Gacha_/Gacha_Scene.unity
+  - enabled: 0
+    path: Assets/V.1.0/Scenes.1.0/Gacha_/Gacha_Scene.unity
     guid: 068d21d9e0f92f344b7709b67ec2bb30
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA P.unity"
+    guid: f38d85d1b83fd0042a87e0a0bb6c13e5
+  - enabled: 1
+    path: Assets/Scenes/Pan.unity
+    guid: 971c2baabeb3caf44bf3b09a8883d046
+  - enabled: 1
+    path: Assets/Scenes/Primera.unity
+    guid: 5b62e51b822f827419e7d2749a1852c0
+  - enabled: 1
+    path: "Assets/Scenes/H\xE1bitat de Agua.unity"
+    guid: b9060f36038670343b8b8891ab0a20c5
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 7afa46a1dcb91f54e98d30f9a15ebbbe, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
