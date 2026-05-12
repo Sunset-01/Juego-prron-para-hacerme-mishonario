@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65cbf9493fcd6c441ad3a0b26c5c592e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - comunTable: {fileID: 11400000, guid: e25fc4828cacd2b4d8e7ac39d2fd841e, type: 2}
+  - raraTable: {fileID: 11400000, guid: 7d9a773ff1ba47540bf878ce986f78f8, type: 2}
+  - epicaTable: {fileID: 11400000, guid: 7cc0120fdaf5f3d42a2c39891450684c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
